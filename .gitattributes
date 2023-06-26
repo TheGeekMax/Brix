@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-**/shaders/* linguist-vendored
-**/cginc/* linguist-vendored
+**/*.shader linguist-vendored
+**/*.cginc linguist-vendored
